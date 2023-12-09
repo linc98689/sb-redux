@@ -1,0 +1,9 @@
+h1, div{
+    text-align: center;
+    margin: 50px;
+}
+.btn{
+    padding: 5px 8px;
+    margin: 8px;
+    border-radius: 5px;
+}
