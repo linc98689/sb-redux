@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: white;
+  color:black;
+} 
+.App-header, .App-form, .App-list{
+  margin: 30px;
+}
+li{
+  list-style: none;
+  line-height: 1.5em;
+}
+button{
+  margin-left: 5px;
+}
